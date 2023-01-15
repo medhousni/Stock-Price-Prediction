@@ -9,5 +9,5 @@ easy to create interactive dashboards and visualizations.
 The program is built using the Prophet library for forecasting time series data, the Plotly library to create interactive plots and visualize
 data and the yfinance library to interact with the Yahoo Finance API to retrieve financial data.
 
-## How it works
-![stock](https://user-images.githubusercontent.com/119140191/212502756-e4e57f03-b3d7-4822-8593-09aba3691514.png)
+
+
